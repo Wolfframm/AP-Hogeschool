@@ -1,0 +1,12 @@
+/Users/dylan/hogeschool/OOPLabo/OOPLabo/obj/Debug/netcoreapp3.1/OOPLabo.csprojAssemblyReference.cache
+/Users/dylan/hogeschool/OOPLabo/OOPLabo/obj/Debug/netcoreapp3.1/OOPLabo.AssemblyInfoInputs.cache
+/Users/dylan/hogeschool/OOPLabo/OOPLabo/obj/Debug/netcoreapp3.1/OOPLabo.AssemblyInfo.cs
+/Users/dylan/hogeschool/OOPLabo/OOPLabo/obj/Debug/netcoreapp3.1/OOPLabo.csproj.CoreCompileInputs.cache
+/Users/dylan/hogeschool/OOPLabo/OOPLabo/bin/Debug/netcoreapp3.1/OOPLabo.deps.json
+/Users/dylan/hogeschool/OOPLabo/OOPLabo/bin/Debug/netcoreapp3.1/OOPLabo.runtimeconfig.json
+/Users/dylan/hogeschool/OOPLabo/OOPLabo/bin/Debug/netcoreapp3.1/OOPLabo.runtimeconfig.dev.json
+/Users/dylan/hogeschool/OOPLabo/OOPLabo/bin/Debug/netcoreapp3.1/OOPLabo.dll
+/Users/dylan/hogeschool/OOPLabo/OOPLabo/bin/Debug/netcoreapp3.1/OOPLabo.pdb
+/Users/dylan/hogeschool/OOPLabo/OOPLabo/obj/Debug/netcoreapp3.1/OOPLabo.dll
+/Users/dylan/hogeschool/OOPLabo/OOPLabo/obj/Debug/netcoreapp3.1/OOPLabo.pdb
+/Users/dylan/hogeschool/OOPLabo/OOPLabo/obj/Debug/netcoreapp3.1/OOPLabo.genruntimeconfig.cache

@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{FE1C9030-AC84-40A7-9D60-B9086C90F32F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="OOPLabo/NumberCombination.cs">
+    <Files>
+      <File FileName="OOPLabo/Program.cs" Line="41" Column="1" />
+      <File FileName="OOPLabo/DateTimeExercises.cs" />
+      <File FileName="OOPLabo/NumberCombination.cs" Line="12" Column="36" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OOPLabo" expanded="True">
+            <Node name="OOPLabo" expanded="True">
+              <Node name="NumberCombination.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.OOPLabo PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
